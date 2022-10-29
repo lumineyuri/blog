@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>arknights</title>
+  
+  
+  <link href="https://wwww.yuanshen.info/atom.xml" rel="self"/>
+  
+  <link href="https://wwww.yuanshen.info/"/>
+  <updated>2022-10-28T16:00:00.000Z</updated>
+  <id>https://wwww.yuanshen.info/</id>
+  
+  <author>
+    <name>Lumine</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>来加好友罢</title>
+    <link href="https://wwww.yuanshen.info/article/op.html"/>
+    <id>https://wwww.yuanshen.info/article/op.html</id>
+    <published>2022-10-28T16:00:00.000Z</published>
+    <updated>2022-10-28T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="OP" scheme="https://wwww.yuanshen.info/categories/OP/"/>
+    
+    
+    <category term="OP" scheme="https://wwww.yuanshen.info/tags/OP/"/>
+    
+  </entry>
+  
+</feed>

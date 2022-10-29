@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>arknights</title>
+    <link>https://wwww.yuanshen.info/</link>
+    
+    <atom:link href="https://wwww.yuanshen.info/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>原神资讯小站</description>
+    <pubDate>Fri, 28 Oct 2022 16:00:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>来加好友罢</title>
+      <link>https://wwww.yuanshen.info/article/op.html</link>
+      <guid>https://wwww.yuanshen.info/article/op.html</guid>
+      <pubDate>Fri, 28 Oct 2022 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description></description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://wwww.yuanshen.info/categories/OP/">OP</category>
+      
+      
+      <category domain="https://wwww.yuanshen.info/tags/OP/">OP</category>
+      
+      
+      <comments>https://wwww.yuanshen.info/article/op.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
