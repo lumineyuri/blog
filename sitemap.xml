@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wwww.yuanshen.info/article/TCG-Character-lines.html</loc>
+    
+    <lastmod>2022-11-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wwww.yuanshen.info/why/index.html</loc>
     
     <lastmod>2022-10-29</lastmod>
@@ -10,27 +19,18 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://wwww.yuanshen.info/article/UB-Leak-1.html</loc>
-    
-    <lastmod>2022-10-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://wwww.yuanshen.info/</loc>
-    <lastmod>2022-10-29</lastmod>
+    <lastmod>2022-11-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://wwww.yuanshen.info/tags/Ubatacha/</loc>
-    <lastmod>2022-10-29</lastmod>
+    <loc>https://wwww.yuanshen.info/tags/%E4%B8%83%E5%9C%A3%E5%8F%AC%E5%94%A4/</loc>
+    <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -38,8 +38,8 @@
 
   
   <url>
-    <loc>https://wwww.yuanshen.info/categories/Leak/</loc>
-    <lastmod>2022-10-29</lastmod>
+    <loc>https://wwww.yuanshen.info/categories/Naevisleaks/</loc>
+    <lastmod>2022-11-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
